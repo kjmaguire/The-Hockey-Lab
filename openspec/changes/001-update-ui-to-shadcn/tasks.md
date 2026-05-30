@@ -1,0 +1,12 @@
+## 1. Implementation
+- [x] 1.1 Decide frontend framework and hosting target
+- [x] 1.2 Define data access approach (direct NHL API vs proxy service)
+- [x] 1.3 Scaffold Shadcn UI app and theme
+- [x] 1.4 Implement Overview view
+- [x] 1.5 Implement Teams view
+- [x] 1.6 Implement Players view
+- [x] 1.7 Implement Games view
+- [x] 1.8 Implement Analytics view
+- [x] 1.9 Add caching, loading, and error states
+- [ ] 1.10 Add tests and linting
+- [x] 1.11 Decommission or archive Streamlit UI
